@@ -1,0 +1,36 @@
+Folder PATH listing
+Volume serial number is 6CC5-6876
+C:.
+|   .gitignore
+|   output.doc
+|   package-lock.json
+|   package.json
+|   README.md
+|   
++---public
+|       favicon.ico
+|       index.html
+|       logo192.png
+|       logo512.png
+|       manifest.json
+|       robots.txt
+|       
+\---src
+    |   App.js
+    |   index.js
+    |   
+    +---Home
+    |       Home.jsx
+    |       
+    +---Login
+    |       Login.jsx
+    |       
+    +---Redux
+    |   |   store.js
+    |   |   
+    |   \---Slice
+    |           Slice.js
+    |           
+    \---utils
+            ProtectedRoute.js
+            
